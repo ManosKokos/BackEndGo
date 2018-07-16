@@ -1,6 +1,5 @@
 // main.go
 
-
 // import folders that must have 
 // func implementetions for
 // requests
